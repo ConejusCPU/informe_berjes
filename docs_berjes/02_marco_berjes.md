@@ -37,21 +37,15 @@ Como tal, ésta normativa es parte de la familia normativa ISO/IEC 27036 la cual
 
 ### Aplicabilidad de las normativas dispuestas
 
+#### Hechos concretos del caso
 
+A) Oladimeji y Kerner (2023) documentan el mecanismo técnico central del ataque como un supply chain attack (ataque a la cadena de suministro) para "insertar código malicioso en el sistema Orion [...] creando una puerta trasera", siendo así, ésta backdoor permitió que los hackers pudieran acceder con credenciales e impersonar usuarios y cuentas de organizaciones víctimas. En función de lo establecido en la Ley N°21.459 (BCN, 2022) sanciona en su art. N°1 el acceso ilícito a sistemas informáticos sin autorización. Asimismo, el art. N°3 sanciona el ataque a la integridad de los datos informáticos, que también se configura al modificar el código fuente de Orion durante el proceso de compilación, alterando sin autorización los datos que componen el software distribuido comercialmente (BCN, 2022).
 
+B) Formalmente, el ataque a SolarWinds tardó más de un año en detectarse (desde Septiembre de 2019 a Diciembre de 2020), por lo que los atacantes tuvieron 14 meses de acceso irrestricto al sistema (Oladimeji & Kerner, 2023), además de que la intrusión al sistema se dió mediante múltiples servidores ubicados en EE.UU., siendo mimetizado mediante tráfico de red legítimo (Oladimeji & Kerner, 2023). En conformidad a esto, el art. N°7 de la Ley N°21.663 (BCN, 2024) establece deberes generales de ciberseguridad, incluyendo la obligación de implementar medidas para prevenir, detectar y responder a incidentes. Adicionalmente, el art. N°9 de la misma ley, impone la obligación de reportar incidentes oportunamente a la autoridad competente (ANCI).
 
+C) La inyección de código malicioso mediante lotes de software (actualizaciones) distribuido por SolarWinds (Oladimeji & Kerner, 2023) puede ser contrastado por la normativa ISO/IEC 27036-3:2023, especialmente, las directrices que buscan reglamentar la integridad y los procesos de verificación de los artefactos de software (ISO, 2023), ya que, si consideramos el hecho de que SolarWinds pudiera distribuir actualizaciones firmadas digitalmente (con malware) durante la compilación, sin que ningún mecanismo de control lo detectara, constituye una falla directa en los controles de integridad del sistema que ésta norma prescribe.
 
-
-
-
-
-
-
-
-
-
-
-
+# ----------------------------------------------------------------------------------------------------
 
 # Recursos Bibliográficos
 
