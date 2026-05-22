@@ -23,8 +23,20 @@ La ley N°21.663 fue publicada en el Diario Oficial el día 08 de Abril del año
 
 # ----------------------------------------------------------------------------------------------------
 
-
 ### Normativa Internacional
+
+#### ISO/IEC 27001:2022, Sistema de Gestión de Seguridad de la Información (SGSI) (ISO, 2022)
+
+Estándar internacional publicado por la Organización Internacional de Normalización (ISO) y la Comisión Electrotécnica Internacional (IEC). Establece los requisitos para implementar, mantener y mejorar de forma continua un SGSI, cubriendo la confidencialidad, integridad y disponibilidad de la información. La cláusula 5.19 (A.1) (relaciones con proveedores) y los controles de gestión de vulnerabilidaddes son directamente aplicables a la falla de SolarWinds, donde su proceso de compilación fue comprometido. 
+
+#### ISO/IEC 27036-3:2023, Seguridad en cadenas de suministro de software y hardware (ISO, 2023)
+
+Como tal, ésta normativa es parte de la familia normativa ISO/IEC 27036 la cual regula las relaciones con proveedores, estableciendo directrices para la gestión de riesgos de ciberseguridad en cadenas de suministro de hardware, software y servicios. Formalmente, es la norma internacional más directamente aplicable a ataques del tipo supply chain attack (ataque a la cadena de suministro), ya que aborda la confianza en actualizaciones de terceros, los mecanismos de verificación de integridad del software y los controles de acceso a entornos de compilación.
+
+# ----------------------------------------------------------------------------------------------------
+
+### Aplicabilidad de las normativas dispuestas
+
 
 
 
@@ -48,3 +60,7 @@ La ley N°21.663 fue publicada en el Diario Oficial el día 08 de Abril del año
 2) CHILE. Congreso Nacional. Ley 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. [Consultado el 21 de mayo de 2026] Disponible en: https://bcn.cl/32uaf
 
 3) CHILE. Congreso Nacional. Ley 21.663. Ley Marco de Ciberseguridad. 08 de abril de 2024. [Consultado el 21 de mayo de 2026] Disponible en: https://bcn.cl/3isi2
+
+4) International Organization for Standardization. (2022). ISO/IEC 27001:2022 Information Security, Cybersecurity and Privacy Protection — Information security managment systems — Requirements. ISO. Recuperado de: https://www.exactls.com/wp-content/uploads/2025/02/ISO_IEC-270012022-ed.3.pdf
+
+5) International Organization for Standardization. (2023). ISO/IEC 27036-3:2023 Cybersecurity -  Supplier Relationships — Part 3: Guidelines for hardware, software, and services supply chain security. ISO. Recuperado de: https://cdn.standards.iteh.ai/samples/82890/a08a697db8b84e5e96f14173d2ae8d9a/ISO-IEC-27036-3-2023.pdf
