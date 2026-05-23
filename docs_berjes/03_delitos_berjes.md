@@ -47,4 +47,4 @@ Entendiendo que existió alteración de Orion y por lo tanto, al sistema de Sola
 
 # Recursos Bibliográficos
 
-1) CHILE. Congreso Nacional. Ley 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. [Consultado el 22 de mayo de 2026] Disponible en: https://bcn.cl/32uaf
+1) Congreso Nacional de Chile. (01 de abril de 2025). Ley no. 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. https://bcn.cl/32uaf

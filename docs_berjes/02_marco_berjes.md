@@ -51,9 +51,9 @@ C) La inyección de código malicioso mediante lotes de software (actualizacione
 
 1) Oladimeji, S., & Kerner, S. M. (2023, noviembre 3). SolarWinds hack explained: Everything you need to know. WhatIs; TechTarget. https://www.techtarget.com/whatis/feature/SolarWinds-hack-explained-Everything-you-need-to-know
 
-2) CHILE. Congreso Nacional. Ley 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. [Consultado el 21 de mayo de 2026] Disponible en: https://bcn.cl/32uaf
+2) Congreso Nacional de Chile. (01 de abril de 2025). Ley no. 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. https://bcn.cl/32uaf
 
-3) CHILE. Congreso Nacional. Ley 21.663. Ley Marco de Ciberseguridad. 08 de abril de 2024. [Consultado el 21 de mayo de 2026] Disponible en: https://bcn.cl/3isi2
+3) Congreso Nacional de Chile. (01 de marzo de 2025). Ley no. 21.663. Ley Marco de Ciberseguridad. 08 de abril de 2024. https://bcn.cl/3isi2
 
 4) International Organization for Standardization. (2022). ISO/IEC 27001:2022 Information Security, Cybersecurity and Privacy Protection — Information security managment systems — Requirements. ISO. Recuperado de: https://www.exactls.com/wp-content/uploads/2025/02/ISO_IEC-270012022-ed.3.pdf
 

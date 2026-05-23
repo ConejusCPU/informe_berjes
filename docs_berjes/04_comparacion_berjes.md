@@ -14,7 +14,10 @@ En conformidad a lo sucedido en el caso, la siguiente tabla compara tres marcos 
 
 # Recursos Bibliográficos
 
-1) CHILE. Congreso Nacional. Ley 21.663. Ley Marco de Ciberseguridad. 08 de abril de 2024. [Consultado el 23 de mayo de 2026] Disponible en: https://bcn.cl/3isi2
+1) Congreso Nacional de Chile. (01 de abril de 2025). Ley no. 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. https://bcn.cl/32uaf
+
 2) Molnar, I. (2026, abril 17). NIST CSF 2.0 explicado: Qué cambió y por qué es importante. Netwrix.com. https://netwrix.com/es/resources/blog nist-csf-2-0-what-s-new-in-the-cybersecurity-framework/
+   
 3) Amoroso, E. (2025, marzo 19). Aprovechamiento del NIST CSF para la ciberseguridad del sector público. Semperis. https://www.semperis.com/es/blog/leveraging-nist-csf-for-public-sector-cybersecurity/
+
 4) International Organization for Standardization. (2022). ISO/IEC 27001:2022 Information Security, Cybersecurity and Privacy Protection — Information security managment systems — Requirements. ISO. Recuperado de: https://www.exactls.com/wp-content/uploads/2025/02/ISO_IEC-270012022-ed.3.pdf

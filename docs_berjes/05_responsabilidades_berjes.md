@@ -15,11 +15,11 @@ Se identifican tres actores principales con dos tipos de responsabilidad cada un
 
 # Recursos Bibliográficos
 
-1) CHILE. Congreso Nacional. Ley 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. [Consultado el 23 de mayo de 2026] Disponible en: https://bcn.cl/32uaf
+1) Congreso Nacional de Chile. (01 de abril de 2025). Ley no. 21.459. Establece Normas sobre Delitos Informáticos, Deroga la Ley N° 19.223 y Modifica Otros Cuerpos Legales con el Objeto de Adecuarlos al Convenio de Budapest. 20 de junio de 2022. https://bcn.cl/32uaf
 
-2) Kurth, H. A. (2023, noviembre 7). SEC charges SolarWinds and SolarWinds’ CISO with fraud and internal control failures. National Law Review. https://natlawreview.com/article/sec-charges-solarwinds-and-solarwinds-ciso-fraud-and-internal-control-failures
+1) Kurth, H. A. (2023, noviembre 7). SEC charges SolarWinds and SolarWinds’ CISO with fraud and internal control failures. National Law Review. https://natlawreview.com/article/sec-charges-solarwinds-and-solarwinds-ciso-fraud-and-internal-control-failures
 
-3) Oladimeji, S., & Kerner, S. M. (2023, noviembre 3). SolarWinds hack explained: Everything you need to know. WhatIs; TechTarget. https://www.techtarget.com/whatis/feature/SolarWinds-hack-explained-Everything-you-need-to-know
+2) Oladimeji, S., & Kerner, S. M. (2023, noviembre 3). SolarWinds hack explained: Everything you need to know. WhatIs; TechTarget. https://www.techtarget.com/whatis/feature/SolarWinds-hack-explained-Everything-you-need-to-know
 
-4) Ikeda, S. (2025, noviembre 26). SEC Civil Actions Against SolarWinds and Its CISO Dismissed With Prejudice. National Law Review. https://natlawreview.com/article/sec-charges-solarwinds-and-solarwinds-ciso-fraud-and-internal-control-failures
+3) Ikeda, S. (2025, noviembre 26). SEC Civil Actions Against SolarWinds and Its CISO Dismissed With Prejudice. National Law Review. https://natlawreview.com/article/sec-charges-solarwinds-and-solarwinds-ciso-fraud-and-internal-control-failures
 
