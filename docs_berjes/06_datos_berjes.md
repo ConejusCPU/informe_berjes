@@ -22,7 +22,7 @@ El ataque a SolarWinds involucró múltiples acciones por parte de los atacantes
 
 # ----------------------------------------------------------------------------------------------------
 
-## Datos ARCO comprometidos
+## Derechos ARCO comprometidos
 
 | Derecho ARCO | Art. Ley N.° 19.628 | Afectación concreta en el caso SolarWinds |
 |---|---|---|
