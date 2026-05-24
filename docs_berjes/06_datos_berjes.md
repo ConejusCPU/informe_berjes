@@ -24,18 +24,11 @@ El ataque a SolarWinds involucró múltiples acciones por parte de los atacantes
 
 ## Datos ARCO comprometidos
 
-
-
-
-
-
-
-
-
-
-
-
-
+| Derecho ARCO | Art. Ley N.° 19.628 | Afectación concreta en el caso SolarWinds |
+|---|---|---|
+| **Oposición** | Art. N°11: *El responsable de los registros o bases donde se almacenen datos personales con posterioridad a su recolección deberá cuidar de ellos con la debida diligencia, haciéndose responsable de los daños.* (Congreso Nacional de Chile, 2023)| Tratamiento masivo sin consentimiento ni base legal; los titulares no pudieron oponerse al tratamiento ilícito previo a la detección. Adicionalmente, la falta de reporte oportuno (contraria al Art. 9.° Ley 21.663) agravó la indefensión de los titulares. |
+| **Acceso** | Art. N°12: *Toda persona tiene derecho a exigir a quien sea responsable de un banco, que se dedique en forma pública o privada al tratamiento de datos personales, información sobre los datos relativos a su persona, su procedencia y destinatario, el propósito del almacenamiento y la individualización de las personas u organismos a los cuales sus datos son transmitidos regularmente* | Titulares no pudieron confirmar si sus datos eran tratados por terceros no autorizados durante más de 14 meses, entendiendo que el responsable legítimo tampoco tenía conocimiento del tratamiento ilícito paralelo ejecutado por APT29. |
+| **Supresión** | Art. N°23: Entendiendo que hubo tratamiento ilícito sin consentimiento de los datos, la siguiente definición aplicaría: " La persona natural o jurídica privada o el organismo público responsable del banco de datos personales deberá indemnizar el daño patrimonial y moral que causare por el tratamiento indebido de los datos, sin perjuicio de proceder a eliminar, modificar o bloquear los datos de acuerdo a lo requerido por el titular o, en su caso, lo ordenado por el tribunal"| Datos obtenidos sin base de licitud alguna; imposibilidad práctica de supresión una vez exfiltrados a actores estatales extranjeros. Formalmente, la ocultación activa del malware impidió el ejercicio oportuno de este derecho. |
 
 
 # ----------------------------------------------------------------------------------------------------
