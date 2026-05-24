@@ -182,3 +182,89 @@
     border-right-color: var(--border);
   }
 }
+
+.app-shell {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+
+.app-label {
+  margin: 0 0 6px 0;
+  font-size: 0.95rem;
+  color: var(--text-muted, #666);
+}
+
+.tab-list {
+  display: flex;
+  gap: 10px;
+}
+
+.tab {
+  padding: 10px 18px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--card, #f9f9fa);
+  color: var(--text-h, #111);
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.tab:hover,
+.tab:focus-visible {
+  outline: none;
+  border-color: var(--accent, #4f46e5);
+}
+
+.tab.active {
+  background: var(--accent-bg, #eef2ff);
+  color: var(--accent, #4f46e5);
+  border-color: var(--accent, #4f46e5);
+}
+
+.app-content {
+  background: var(--surface, #fff);
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+}
+
+.resumen h2 {
+  margin-top: 1.8rem;
+}
+
+.resumen section {
+  margin-bottom: 24px;
+}
+
+.resumen table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+}
+
+.resumen th,
+.resumen td {
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.resumen ol {
+  padding-left: 1.2rem;
+}
+
+.resumen strong {
+  font-weight: 700;
+}
+
