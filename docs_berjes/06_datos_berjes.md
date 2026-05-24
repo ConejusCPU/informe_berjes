@@ -3,9 +3,9 @@
 
 ## Consideración preliminar: datos personales v/s datos sensibles
 
-1) Datos personales:  Según lo contenido en la Ley N° 19.628 "Sobre Protección de la Vida Privada", Art. N°2, inciso f, la legislación chilena establece que *datos personales* son "los relativos a cualquier información concerniente a personas naturales, identificadas o identificables." (Congreso Nacional de Chile, 2023), vale decir, es el término genérico relativo a los datos pertenecientes a un sujeto de derecho.
+1) Datos personales:  Según lo contenido en la Ley N° 19.628 "Sobre Protección de la Vida Privada", Art. N°2, letra f, la legislación chilena establece que *datos personales* son "los relativos a cualquier información concerniente a personas naturales, identificadas o identificables." (Congreso Nacional de Chile, 2023), vale decir, es el término genérico relativo a los datos pertenecientes a un sujeto de derecho.
 
-2) Datos sensibles: Según lo contenido en la Ley N° 19.628 "Sobre Protección de la Vida Privada", Art. N°2, inciso g, se entiende por *dato sensible* a "aquellos datos personales que se refieren a las características físicas o morales de las personas o a hechos o circunstancias de su vida privada o intimidad[...]" (Congreso Nacional de Chile, 2023), o sea, cuestiones alusivas a raza, religión, ideología política, etc.
+2) Datos sensibles: Según lo contenido en la Ley N° 19.628 "Sobre Protección de la Vida Privada", Art. N°2, letra g, se entiende por *dato sensible* a "aquellos datos personales que se refieren a las características físicas o morales de las personas o a hechos o circunstancias de su vida privada o intimidad[...]" (Congreso Nacional de Chile, 2023), o sea, cuestiones alusivas a raza, religión, ideología política, etc.
 
 
 # ----------------------------------------------------------------------------------------------------
@@ -14,7 +14,15 @@
 
 El ataque a SolarWinds involucró múltiples acciones por parte de los atacantes que, si los contrastamos con la normativa chilena vigente, constituyen delitos propiamente tal. Al respecto, podemos hablar de 3 tipos de datos comprometidos en el caso:
 
+| Tipo de dato | Clasificación | Descripción en el caso SolarWinds |
+|---|---|---|
+| **Credenciales de autenticación** (nombres de usuario, contraseñas, tokens OAuth, certificados digitales, etc.) | **Dato personal** (Art. N°2, letra f, Ley N°19.628) | Según los antecedentes documentados, se sabe que el malware SUNBURST podía "acceder e impersonar usuarios y cuentas de organizaciones víctimas" (Oladimeji & Kerner, 2023). Siendo así, podemos decir que, al entender que las credenciales están directamente vinculadas a personas naturales identificables, esto las configura como datos personales en los términos de la Ley N.° 19.628 (Congreso Nacional de Chile, 2023). |
+| **Correos electrónicos y comunicaciones internas** (asociados a funcionarios gubernamentales) | **Dato personal (con posible carácter sensible)** (Art. N°2, letra g, Ley N°19.628) | Las comunicaciones de funcionarios pueden contener opiniones políticas, posiciones en negociaciones, intereses particulares y datos de situación personal, categorías que la Ley 19.628 define como datos sensibles.
+| **Registros de actividad y configuración de sistemas** (logs de actividad, registros de acceso, datos de rendimiento de la plataforma Orion, entre otros.) | **Dato personal** (Art. N°2, letra f, Ley N°19.628) | Los archivos de *logs* de Orion contienen nombres de usuario, direcciones IP asignadas a personas y marcas temporales de actividad individual, por lo que, al poder asociarse a personas naturales identificables, constituyen datos personales ordinarios. En conformidad a esto, la plataforma Orion tenía, según Oladimeji y Kerner (2023), "acceso privilegiado a los sistemas de TI para obtener registros y datos de rendimiento del sistema". |
 
+# ----------------------------------------------------------------------------------------------------
+
+## Datos ARCO comprometidos
 
 
 
