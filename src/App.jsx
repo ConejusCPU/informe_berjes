@@ -16,8 +16,8 @@ function App() {
     <div className="app-shell">
       <header className="app-header">
         <div>
-          <p className="app-label">Informe Berjes</p>
-          <h1>Contenido del Resumen</h1>
+          <p className="app-label"></p>
+          <h1>Informe Berjes</h1>
         </div>
         <nav className="tab-list" aria-label="Navegación de secciones">
           <button
@@ -88,6 +88,10 @@ function App() {
         {activeTab === 'conclusiones' && <Conclusiones />}
         {activeTab === 'prompts' && <Prompts />}
       </main>
+      <footer className="app-footer">
+        <p>Creado por Jesús Bernal Moreira. 2026.</p>
+        <p>Link del repositorio: https://github.com/ConejusCPU/informe_berjes</p>
+      </footer>
     </div>
   )
 }

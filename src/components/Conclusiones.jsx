@@ -1,7 +1,7 @@
 function Conclusiones() {
   return (
     <article className="conclusiones">
-      <h1>Nociones finales sobre el caso SolarWinds</h1>
+      <h1>Conclusiones sobre el caso SolarWinds</h1>
 
       <p>
         Tal como se desarrolló en este trabajo, podemos decir que el caso SolarWinds/SUNBURST deja múltiples

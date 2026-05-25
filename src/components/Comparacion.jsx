@@ -1,7 +1,7 @@
 function Comparacion() {
   return (
-    <article className="comparacion">
-      <h1>Comparación de Marcos Regulatorios por Industria</h1>
+    <article className="comparacion resumen">
+      <h1>Comparación de Marcos por Industria</h1>
 
       <section>
         <p>

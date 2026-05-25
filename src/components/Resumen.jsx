@@ -1,7 +1,7 @@
 function Resumen() {
   return (
     <article className="resumen">
-      <h1>Resumen del Caso SUNBURST / SolarWinds (2019–2025)</h1>
+      <h1>Caso SUNBURST / SolarWinds (2019–2025)</h1>
 
       <section>
         <h2>¿Qué ocurrió?</h2>

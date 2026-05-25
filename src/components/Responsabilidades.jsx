@@ -1,7 +1,7 @@
 function Responsabilidades() {
   return (
-    <article className="responsabilidades">
-      <h1>Responsabilidades Legales de los Actores</h1>
+    <article className="responsabilidades resumen">
+      <h1>Responsabilidades Legales</h1>
 
       <p>
         En conformidad a lo presentado en el caso descrito en los otros archivos, se identifican

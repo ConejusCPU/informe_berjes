@@ -1,7 +1,7 @@
 function Datos() {
   return (
-    <article className="datos">
-      <h1>Tratamiento de Datos en el caso SolarWinds</h1>
+    <article className="datos resumen">
+      <h1>Tratamiento de Datos</h1>
 
       <section>
         <h2>Consideración preliminar: datos personales v/s datos sensibles</h2>
